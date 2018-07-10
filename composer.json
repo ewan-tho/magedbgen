@@ -2,7 +2,7 @@
   "name": "ewan-tho/magedbgen",
   "description": "Generate a function to create DB schema from a MySQL dump",
   "author": "Ewan Thompson",
-  "version": "0.1",
+  "version": "0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/ewan-tho/magedbgen"
